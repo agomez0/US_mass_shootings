@@ -8,12 +8,12 @@
 
 We are analyzing data on mass shootings in the U.S. using Python Pandas, the Matplotlib library, gmaps library, and Google APIs. Our goal is to prove or disprove our hypothesis that the number of mass shooting victims is related to the location of the shooting, as well as the type of gun used. We believe that there are less victims when the shooting occurs in close proximity to the nearest police department. Furthermore, we believe that there are more victims when multiple weapons or more powerful weapons are used than when a handgun is used. Our second hypothesis is that the amount of mass shootings in the U.S. is determined by location type and geographic location. We specifically believe that most mass shootings occur in crowded places, such as schools, as apposed to homes. 
 
-### What classifies as a "mass shooting"?
+### What Classifies as a "Mass Shooting"?
 According to the Stanford MSA Project, a mass shooting is " 3 or more shooting victims (not necessarily fatalities), not including the shooter. The shooting must not be identifiably gang, drug, or organized crime related."*
 
 *[https://library.stanford.edu/projects/mass-shootings-america](https://library.stanford.edu/projects/mass-shootings-america)
 
-### Files
+### Files:
 [Stanford MSA Data](Stanford_MSA_Shooting.csv)
 
 * CSV file downloaded from: [Stanford Geospatial Center](https://github.com/StanfordGeospatialCenter/MSA/tree/master/Data)
