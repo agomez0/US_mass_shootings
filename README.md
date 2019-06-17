@@ -18,10 +18,10 @@ According to the Stanford MSA Project, a mass shooting is " 3 or more shooting v
 
 * CSV file downloaded from: [Stanford Geospatial Center](https://github.com/StanfordGeospatialCenter/MSA/tree/master/Data)
 
-### Calculations Added to DataFrame:
-* `Death Percent` Percent of deaths from the number of total victims (including law enforcement)
-* `Nearest Police Department` Utilized the Google nearby search API to find the nearest police department to the shooting site
-* `Nearest Police Department Proximity` Utilized the Google distance matrix API to find the distance from the shooting site to the nearest police department 
+### Calculations Added:
+* `Death Percent`: Percent of deaths from the number of total victims (including law enforcement)
+* `Nearest Police Department`: Utilized the Google nearby search API to find the nearest police department to the shooting site
+* `Nearest Police Department Proximity`: Utilized the Google distance matrix API to find the distance from the shooting site to the nearest police department 
 
 ### What to Expect:
 
@@ -46,7 +46,7 @@ According to the Stanford MSA Project, a mass shooting is " 3 or more shooting v
 ### How to Run the Script:
 * Sign up for a google places API key: [https://developers.google.com/places/web-service/get-api-key](https://developers.google.com/places/web-service/get-api-key)
 
-* Input it in [config.py](config.py)
+* Input key in [config.py](config.py)
 
 ### Our Conclusions: [conclusions.txt](conclusions.txt)
 
