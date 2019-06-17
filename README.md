@@ -24,7 +24,6 @@ According to the Stanford MSA Project, a mass shooting is " 3 or more shooting v
 * `Nearest Police Department Proximity`: Utilized the Google distance matrix API to find the distance from the shooting site to the nearest police department 
 
 
-* Map of the U.S. with markers of each mass shooting
 ![Map](Images/map.png)
 
 ![pctshootings](Images/pctshootings.png)
