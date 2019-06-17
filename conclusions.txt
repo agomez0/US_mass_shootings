@@ -1,0 +1,31 @@
+We can visually see on the map that the eastern half of the U.S. has a higher occurrence of mass shootings than the western half.
+Shootings seem to be evenly spread out in the East Coast. 
+
+Most mass shootings involve use of a handgun (41.8% of mass shootings).
+Mass shootings involving the use of multiple weapons had the highest average number of victims (14.47) than any other type of mass shooting.
+    Mass shootings involving a handgun or rifle had around the same average number of victims (7).
+The use of a handgun caused a higher average percent of fatalities from the amount of total victims than any other gun type (on average, 54.4% of handgun victims had a fatal incident).
+    Surprisingly and contrary to our prediction, it seems that handguns can be more fatal than rifles or shotguns.
+
+California had the highest number of mass shootings(35), followed by Florida(28) then Texas(23).
+    One of the reasons could be because California and Texas are amongst the largest states in the U.S.
+    Future analysis could examine the relationship between number of mass shootings and state size and number of mass shootings and population size per state.
+
+Also contrary to our belief, most mass shootings occur in places of residency.
+
+There was no visible correlation between the proximity of the shooting site to the nearest police department, such that the amount of victims increased as the distance increased.
+    A visible trend is that many of the mass shootings occurred within a 3 mile distance of the nearest police department.
+    IMPORTANT LIMITATION: We did not confirm whether the police department was already established at the time of the shooting. 
+    The amount of victims within the 3 mile distance to the police department ranged from 3 to 102.
+    ANOVA test: The amount of victims did not differ significantly in any of the groups based on proximity to the nearest police department.
+
+There was no visible correlation between the amount of weapons used and the total number of victims, such that more weapons increased the number of victims.
+    ANOVA test: There were significantly more victims when multiple weapons were used during mass shootings than when only one weapon was used.
+
+
+
+
+    
+
+
+
