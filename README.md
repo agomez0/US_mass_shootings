@@ -44,7 +44,9 @@ According to the Stanford MSA Project, a mass shooting is " 3 or more shooting v
 ### How to Run the Script:
 * Sign up for a google API key: [https://developers.google.com/places/web-service/get-api-key](https://developers.google.com/places/web-service/get-api-key)
 
-* Input key in [config.py](config.py)
+* Copy `config.example.py` and rename it `config.py`.
+
+* Insert your API key in `config.py`.
 
 ### Our Conclusions: [conclusions.txt](conclusions.txt)
 
