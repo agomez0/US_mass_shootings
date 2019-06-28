@@ -40,6 +40,9 @@ According to the Stanford MSA Project, a mass shooting is " 3 or more shooting v
 
 ![victimsvsnumofguns](Images/victimsvsnumofguns.png)
 
+![anova1](Images/anova1.png)
+
+![anova2](Images/anova2.png)
 
 ### How to Run the Script:
 * Sign up for a google API key: [https://developers.google.com/places/web-service/get-api-key](https://developers.google.com/places/web-service/get-api-key)
